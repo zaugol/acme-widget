@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a proof of concept for Acme Widget's new sales system. It includes functionality for adding products to a basket, calculating the total price with special offers and delivery charges, and testing the overall logic with PHPUnit.
+This is a proof of concept for Acme's Widget new sales system. It includes functionality for adding products to a basket, calculating the total price with special offers and delivery charges, and testing the overall logic with PHPUnit.
 
 ### Products
 
